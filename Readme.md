@@ -1,1 +1,0 @@
-Demonstration of the Leap Motion websocket with JavaFX / DataFX.
